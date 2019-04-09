@@ -1,0 +1,63 @@
+Wednesday August 22: Lecture intro 1
+Friday August 24: Lecture intro 2
+
+Monday August 27: Releasing assignment 1 + demo virtualbox/ssh/mamba/git
+Wednesday August 29: Lecture "Formal Representation and Metrics"
+Friday August 31: Lecture "Scheduling DAGs"
+
+Monday September 3: [labor day: university closed]
+Wednesday September 5: Lecture "Extracting Parallelism"
+Friday September 7: Releasing assignment 2 "Parallelism extraction"
+
+Monday September 10: Lecture "pthreads and race conditions"
+Wednesday September 12: Lecture "pthreads: advanced synchronization"
+Friday September 14: Release assignment 3-part 1 "Loop Scheduler (static)"
+
+Monday September 17: Release assignment 3-part 2 "Loop Scheduler (dynamic)"
+Wednesday September 19: Buffer
+Friday September 21: Lecture OpenMP-loop 1
+
+Monday September 24: Midterm 1
+Wednesday September 26: Release assignment 4: OpenMP loop
+Friday September 28: Lecture OpenMP-loop 2
+
+Monday October 1: Lecture OpenMP-task
+Wednesday October 3: Release assignment 5: OpenMP-task
+Friday October 5: Lecture Concurrent Data Structure
+
+Monday October 8: [Student recess : no classes]
+Wednesday October 10: Buffer 2
+Friday October 12: Lecture dist mem-intro
+
+Monday October 15: Lecture MPI basics
+Wednesday October 17: Release assignment 6 MPI-collective (preliminary)
+Friday October 19: Lecture MPI collective
+
+Monday October 22: Release assignment 6 MPI-collective
+Wednesday October 24: Midterm 2
+Friday October 26: Lecture Mpi pt-to-pt blocking
+
+Monday October 29: Lecture MPI pt-to-pt non blocking
+Wednesday October 31: Release assignment 7: MPI-pt-to-pt
+Friday November 2: Lecture MPI what else?
+
+Monday November 5:  Lecture "Theory of distributed memory" (part 1)
+Wednesday November 7: Lecture "Theory of distributed memory" (part 2)
+Friday November 9: Release assignment 8 "distributed memory algorithms"
+
+Monday November 12: Lecture "Map Reduce MPI"
+Wednesday November 14: Release assignment 9: MR-MPI 
+Friday November 16: Buffer 3
+
+Monday November 19: Lecture Acceleration principle
+Wednesday November 21: [Thanksgiving break - no classes]
+Friday November 23: [Thanksgiving break - no classes]
+
+Monday November 26: Lecture CUDA programming basic
+Wednesday November 28: Release Assignment 10: CUDA 1
+Friday November 30: Lecture CUDA stream
+
+Monday December 3: Release Assignment 11: CUDA 2
+Wednesday December 5: Lecture Wrap-up
+
+Wednesday December 12: Final
