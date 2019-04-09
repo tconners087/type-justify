@@ -2,9 +2,9 @@
  ============================================================================
  Name        : typeJustify.c
  Author      : Taylor C
- Version     :
- Copyright   : Your copyright notice
- Description : Hello World in C, Ansi-style
+ Version     : 1.0 
+ Copyright   : I don't know dude, you can use it or whatever.
+ Description : A program which prints a justified .txt file to the terminal.
  ============================================================================
  */
 
